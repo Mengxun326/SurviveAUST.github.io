@@ -1,0 +1,23 @@
+{
+  "name": "survive-aust",
+  "version": "1.0.0",
+  "description": "安徽理工大学生存指南",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "export-pdf": "vitepress export docs"
+  },
+  "keywords": [
+    "安徽理工大学",
+    "生存指南",
+    "AUST"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  }
+}
+

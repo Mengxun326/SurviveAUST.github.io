@@ -1,0 +1,13 @@
+/**
+ * 自定义样式
+ * 你可以在这里添加自定义的 CSS 样式
+ */
+
+:root {
+  --vp-c-brand: #1890ff;
+  --vp-c-brand-light: #40a9ff;
+  --vp-c-brand-lighter: #69c0ff;
+  --vp-c-brand-dark: #096dd9;
+  --vp-c-brand-darker: #0050b3;
+}
+
