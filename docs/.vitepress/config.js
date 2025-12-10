@@ -4,7 +4,7 @@ export default defineConfig({
   title: 'SurviveAUST',
   description: '安徽理工大学生存指南',
   lang: 'zh-CN',
-  base: '/',
+  base: '/SurviveAUST.github.io/',
   
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }]
